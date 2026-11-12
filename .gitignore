@@ -1,0 +1,15 @@
+/.venv/
+/build/
+/dist/
+/demo-inputs/
+/demo-results/
+/data/
+/outputs/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.env
+*.xls
+*.xlsm
+*.xlsx
+*.exe

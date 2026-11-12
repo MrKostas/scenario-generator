@@ -57,7 +57,7 @@ py -3.12 -m venv .venv
 .\.venv\Scripts\python.exe scenario-generator-epi.py --source-dir demo-inputs/site-b --output-path demo-results/site-b.xlsx
 ```
 
-Автор проекта — [MrKostas](https://github.com/MrKostas). Приложение опубликовано как некоммерческий кейс портфолио. Уведомления о сторонних компонентах сборки приложены к релизу.
+Автор проекта - [MrKostas](https://github.com/MrKostas). Приложение опубликовано как некоммерческий кейс портфолио. Уведомления о сторонних компонентах сборки приложены к релизу.
 
 ## English summary
 
